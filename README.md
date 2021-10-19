@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nizans&label=Profile%20views&color=0e75b6&style=flat" alt="nizans" /> </p>
 
-- 🔭 I’m currently working on [A MERN website](https://github.com/nizans/graphology-web-project)
+- 🔭 I’m currently working on [A MERN website](https://github.com/nizans/graphology-web-project) for a client
 
 - 🌱 I’m currently learning **Redux, Jest, Cypress**
 
