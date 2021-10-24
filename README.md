@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [A MERN website](https://github.com/nizans/graphology-web-project) for a client
 
-- 🌱 I’m currently learning **Redux, Jest, Cypress**
+- 🌱 I’m currently learning **Jest, Cypress**
 
 - 💬 Ask me about **React, NodeJS, MongoDB, JavaScript, tailwindcss**
 
